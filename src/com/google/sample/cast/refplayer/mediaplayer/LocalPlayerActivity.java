@@ -101,7 +101,7 @@ public class LocalPlayerActivity extends ActionBarActivity {
         LOCAL,
         REMOTE;
     }
-
+    
     /*
      * List of various states that we can be in
      */
